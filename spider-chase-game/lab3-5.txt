@@ -1,0 +1,1 @@
+Debug/delay.c.o Debug/graphics.c.o Debug/keypad.c.o Debug/startup.c.o
